@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/advertizer-bidding-app/static/css/main.49104861.chunk.css",
+    "main.js": "/advertizer-bidding-app/static/js/main.4ee196b2.chunk.js",
+    "main.js.map": "/advertizer-bidding-app/static/js/main.4ee196b2.chunk.js.map",
+    "runtime-main.js": "/advertizer-bidding-app/static/js/runtime-main.943c950b.js",
+    "runtime-main.js.map": "/advertizer-bidding-app/static/js/runtime-main.943c950b.js.map",
+    "static/js/2.21161929.chunk.js": "/advertizer-bidding-app/static/js/2.21161929.chunk.js",
+    "static/js/2.21161929.chunk.js.map": "/advertizer-bidding-app/static/js/2.21161929.chunk.js.map",
+    "index.html": "/advertizer-bidding-app/index.html",
+    "precache-manifest.9784733d056318a39b02d779cc1d649b.js": "/advertizer-bidding-app/precache-manifest.9784733d056318a39b02d779cc1d649b.js",
+    "service-worker.js": "/advertizer-bidding-app/service-worker.js",
+    "static/css/main.49104861.chunk.css.map": "/advertizer-bidding-app/static/css/main.49104861.chunk.css.map",
+    "static/js/2.21161929.chunk.js.LICENSE.txt": "/advertizer-bidding-app/static/js/2.21161929.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.943c950b.js",
+    "static/js/2.21161929.chunk.js",
+    "static/css/main.49104861.chunk.css",
+    "static/js/main.4ee196b2.chunk.js"
+  ]
+}
